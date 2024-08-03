@@ -10,7 +10,7 @@
 <p>/Help | For a list of Commands</p>
 <p>/HugMe | You earned yourself a Hug</p>
 <h2>Features to be added in 2.0</h2>
-<p>/AI | Ask AI whatever you like *You will need your own AI key*</p>
+<p>/AI question | Ask AI whatever you like *You will need your own AI key*</p>
 <p>/play URL | Listen to youtube videos in VC</p>
 <p>/Score | See how many points you've earned by speaking with AI and playing the Mini Games</p>
 <h2>Installation Guide</h2>
